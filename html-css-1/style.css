@@ -1,0 +1,99 @@
+header {
+    display: flex;
+    background-color: grey;
+}
+
+nav {
+    color: white;
+}
+ul {
+
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    height: 7vh;
+    align-items: center
+}
+li {
+    list-style-type: none;
+}
+div {
+    display: flex;
+    justify-content: space-evenly;
+    width: 40vw;
+    font-size: 20px
+}
+.company {
+    font-size: 35px
+}
+.container-1 {
+    padding: 30px;
+    display: block;
+    background-color: black;
+    height: 200px;
+}
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 70px;
+    color: yellow
+}
+.container-2 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.box-1 {
+    height: 30vh;
+    width: 20vw;
+    background-color: aquamarine;
+    border-radius: 20px 20px
+}
+.box-2 {
+    height: 30vh;
+    width: 20vw;
+    background-color: aquamarine;
+    border-radius: 20px 20px
+}
+.box-3 {
+    height: 30vh;
+    width: 20vw;
+    background-color: aquamarine;
+    border-radius: 20px 20px
+}
+
+.container-3 {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+    
+}
+
+.rectangle-1 {
+    height: 25vh;
+    width: 30vw;
+    background-color: orange;
+
+}
+.rectangle-2 {
+    height: 25vh;
+    width: 30vw;
+    background-color: orange
+}
+.container-4 {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+    
+}
+img {
+    margin-right: 300px;
+    width: 370px;
+    height: 250px;
+}
+p {
+    margin-left: 300px;
+}
